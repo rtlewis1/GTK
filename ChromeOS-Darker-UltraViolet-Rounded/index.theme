@@ -1,0 +1,12 @@
+[Desktop Entry]
+Type=X-GNOME-Metatheme
+Name=ChromeOS-Darker-UltraViolet-Rounded
+Comment=A Material Design theme
+Encoding=UTF-8
+
+[X-GNOME-Metatheme]
+GtkTheme=ChromeOS-Darker-UltraViolet-Rounded
+MetacityTheme=ChromeOS-Darker-UltraViolet-Rounded
+IconTheme=Adwaita
+CursorTheme=Adwaita
+CursorSize=24
