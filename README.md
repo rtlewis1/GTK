@@ -8,6 +8,9 @@ Special thanks to horst3180 at: https://github.com/horst3180/Arc-theme, for init
 
 Manual Installation Is Easy:
 
-1) Extract the "zip" file into your "~/.themes/" folder - to install for current user only - or into the "/usr/share/themes/" folder - for the theme to be applied globally. 2) Use GNOME Tweaks, Dconf Editor, or an equivalent 'Look & Feel'/configuration app to enable it for your desktop.
+For themes: 1) Extract the "tar.xz" file into your "~/.themes/" folder - to install for current user only - or into the "/usr/share/themes/" folder - for the theme to be applied globally. 2) Use GNOME Tweaks, Dconf Editor, or an equivalent 'Look & Feel'/configuration app to enable it for your desktop.
 
-Logging out and then logging back in may be necessary on some operating systems to fully implement themes.
+If installing manually, make sure to install the dependency: "Murrine theme engine" if you do not already have it; and update your GTK+packages if you have not.
+
+
+Logging out and then logging back in may be necessary on some operating systems to fully implement themes and icons.
