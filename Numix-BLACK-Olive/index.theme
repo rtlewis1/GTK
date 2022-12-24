@@ -1,0 +1,11 @@
+[Desktop Entry]
+Type=X-GNOME-Metatheme
+Name=Numix-BLACK-Olive
+Comment=Part of the Numix-COLORS Desktop & Icon Theme
+Encoding=UTF-8
+
+[X-GNOME-Metatheme]
+Name=Numix-BLACK-Olive
+GtkTheme=Numix-BLACK-Olive
+IconTheme=Numix-BLACK-Olive
+MetacityTheme=Numix-BLACK-Olive

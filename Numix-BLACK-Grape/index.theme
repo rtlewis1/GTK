@@ -1,0 +1,11 @@
+[Desktop Entry]
+Type=X-GNOME-Metatheme
+Name=Numix-BLACK-Grape
+Comment=Part of the Numix-COLORS Desktop & Icon Theme
+Encoding=UTF-8
+
+[X-GNOME-Metatheme]
+Name=Numix-BLACK-Grape
+GtkTheme=Numix-BLACK-Grape
+IconTheme=Numix-BLACK-Grape
+MetacityTheme=Numix-BLACK-Grape
