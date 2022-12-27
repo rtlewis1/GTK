@@ -1,6 +1,7 @@
 Descriptions of the PUNK-Theme range from "easy to see," "slightly disturbed," "funky," "somehow elegant," "unhinged," "fun," "outrageous," to just "wow." They are probably all very correct statements.
 
-This theme set showcases four Material Design color variations which exactly match their icon-theme counterparts.
+This theme set showcases four Material Design color variations which exactly match their icon-theme counterparts. PUNK-Theme has been crafted to transform GTK, xfwm4, GNOME-Shell, and Cinnamon desktop environments.
+
 
 PUNK-Theme 4-Flavor Iconpack is available for download via: https://www.opendesktop.org/p/1314524/
 
