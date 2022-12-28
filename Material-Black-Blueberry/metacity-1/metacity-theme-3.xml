@@ -1,11 +1,14 @@
 <?xml version="1.0"?>
 <metacity_theme>
 <info>
-  <name>Material-Black-Blueberry-Suru</name>
+  <name>Material-Black-Blueberry</name>
+  <author>rtl88</author>
+  <copyright>CC-BY-SA 2.0</copyright>
+  <date>31 July 2019</date>
   <author>nana-4</author>
   <copyright>GPL</copyright>
   <date>2020</date>
-  <description>Material-Black-Blueberry-Suru Metacity theme</description>
+  <description>Material-Black-Blueberry Metacity theme</description>
 </info>
 
 <!-- meaningful constants -->
