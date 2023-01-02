@@ -1,0 +1,12 @@
+[Desktop Entry]
+Type=X-GNOME-Metatheme
+Name=ChromeOS-DEEP-Slate-ROUNDED
+Comment=A Material Design theme
+Encoding=UTF-8
+
+[X-GNOME-Metatheme]
+GtkTheme=ChromeOS-DEEP-Slate-ROUNDED
+MetacityTheme=ChromeOS-DEEP-Slate-ROUNDED
+IconTheme=Adwaita
+CursorTheme=Adwaita
+CursorSize=24
