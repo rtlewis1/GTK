@@ -1,0 +1,12 @@
+[Desktop Entry]
+Type=X-GNOME-Metatheme
+Name=Material-Stones-August-Peridot
+Comment=A Material Design theme
+Encoding=UTF-8
+
+[X-GNOME-Metatheme]
+GtkTheme=Material-Stones-August-Peridot
+MetacityTheme=Material-Stones-August-Peridot
+IconTheme=Adwaita
+CursorTheme=Adwaita
+CursorSize=24

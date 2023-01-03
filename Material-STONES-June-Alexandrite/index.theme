@@ -1,0 +1,12 @@
+[Desktop Entry]
+Type=X-GNOME-Metatheme
+Name=Material-Stones-June-Alexandrite
+Comment=A Material Design theme
+Encoding=UTF-8
+
+[X-GNOME-Metatheme]
+GtkTheme=Material-Stones-June-Alexandrite
+MetacityTheme=Material-Stones-June-Alexandrite
+IconTheme=Adwaita
+CursorTheme=Adwaita
+CursorSize=24

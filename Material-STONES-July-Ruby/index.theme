@@ -1,0 +1,12 @@
+[Desktop Entry]
+Type=X-GNOME-Metatheme
+Name=Material-Stones-July-Ruby
+Comment=A Material Design theme
+Encoding=UTF-8
+
+[X-GNOME-Metatheme]
+GtkTheme=Material-Stones-July-Ruby
+MetacityTheme=Material-Stones-July-Ruby
+IconTheme=Adwaita
+CursorTheme=Adwaita
+CursorSize=24

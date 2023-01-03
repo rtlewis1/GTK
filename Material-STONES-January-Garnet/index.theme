@@ -1,0 +1,12 @@
+[Desktop Entry]
+Type=X-GNOME-Metatheme
+Name=Material-STONES-January-Garnet
+Comment=A Material Design theme
+Encoding=UTF-8
+
+[X-GNOME-Metatheme]
+GtkTheme=Material-STONES-January-Garnet
+MetacityTheme=Material-STONES-January-Garnet
+IconTheme=Adwaita
+CursorTheme=Adwaita
+CursorSize=24

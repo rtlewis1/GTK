@@ -1,0 +1,12 @@
+[Desktop Entry]
+Type=X-GNOME-Metatheme
+Name=Material-Stones-November-Citrine
+Comment=A Material Design theme
+Encoding=UTF-8
+
+[X-GNOME-Metatheme]
+GtkTheme=Material-Stones-November-Citrine
+MetacityTheme=Material-Stones-November-Citrine
+IconTheme=Adwaita
+CursorTheme=Adwaita
+CursorSize=24

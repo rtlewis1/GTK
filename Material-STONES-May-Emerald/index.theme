@@ -1,0 +1,12 @@
+[Desktop Entry]
+Type=X-GNOME-Metatheme
+Name=Material-Stones-May-Emerald
+Comment=A Material Design theme
+Encoding=UTF-8
+
+[X-GNOME-Metatheme]
+GtkTheme=Material-Stones-May-Emerald
+MetacityTheme=Material-Stones-May-Emerald
+IconTheme=Adwaita
+CursorTheme=Adwaita
+CursorSize=24

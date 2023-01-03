@@ -1,0 +1,12 @@
+[Desktop Entry]
+Type=X-GNOME-Metatheme
+Name=Material-Stones-March-Aquamarine
+Comment=A Material Design theme
+Encoding=UTF-8
+
+[X-GNOME-Metatheme]
+GtkTheme=Material-Stones-March-Aquamarine
+MetacityTheme=Material-Stones-March-Aquamarine
+IconTheme=Adwaita
+CursorTheme=Adwaita
+CursorSize=24
