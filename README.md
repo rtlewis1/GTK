@@ -1,4 +1,4 @@
-Material-STONES Desktop is a GTK, xfwm4, GNOME-Shell, and Cinnamon Theme light-mode theme.
+Material-STONES Desktop is a GTK, xfwm4, GNOME-Shell, and Cinnamon light-mode theme.
 
 The Material-STONES theme is based on Material Design standards, and aims to bring a bright, colorful, and elegant experience to your desktop. Users will find their non-intrusive, monthly color just where they need it.
 
