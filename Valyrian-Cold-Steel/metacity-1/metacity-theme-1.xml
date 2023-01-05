@@ -1,17 +1,13 @@
 <?xml version="1.0"?>
 <metacity_theme>
 <info>
-<name>Valyrian-Cold-Steel</name>
-    <author>rtl88</author>
-    <copyright>rtl88</copyright>
-    <date>2022</date>
-    <based_on>ARC</based_on>
-	<author>horst3180</author>
-	<copyright>horst3180</copyright>
-	<date>2015</date>
-	<description>Arc Metacity theme</description>
+	<name>Valyrian-Cold-Steel</name>
+	<author>rtl88</author>
+	<copyright>rtl88</copyright>
+	<date>2022</date>
+	<Arc Creator>horst3180</Arc Creator>
+	<description>Valyrian-Cold-Steel Metacity theme</description>
 </info>
-
 
 <!-- meaningfull constants -->
 
@@ -26,9 +22,9 @@
 <!-- window button colors -->
 
 <!-- close -->
-<constant name="C_button_close_bg_focused" value="#b5735c" />
-<constant name="C_button_close_bg_hover" value="#c5836c" />
-<constant name="C_button_close_bg_active" value="#a5634c" />
+<constant name="C_button_close_bg_focused" value="#4e6981" />
+<constant name="C_button_close_bg_hover" value="#5e7991" />
+<constant name="C_button_close_bg_active" value="#3e5971" />
 
 <constant name="C_icon_close_bg" value="#0b1721" />
 

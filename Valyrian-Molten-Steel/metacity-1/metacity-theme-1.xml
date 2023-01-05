@@ -1,15 +1,12 @@
 <?xml version="1.0"?>
 <metacity_theme>
 <info>
-<name>Valyrian-Molten-Steel</name>
-    <author>rtl88</author>
-    <copyright>rtl88</copyright>
-    <date>2022</date>
-    <based_on>ARC</based_on>
-	<author>horst3180</author>
-	<copyright>horst3180</copyright>
-	<date>2015</date>
-	<description>Arc Metacity theme</description>
+	<name>Valyrian-Molten-Steel</name>
+	<author>rtl88</author>
+	<copyright>rtl88</copyright>
+	<date>2022</date>
+	<Arc Creator>horst3180</Arc Creator>
+	<description>Valyrian-Molten-Steel Metacity theme</description>
 </info>
 
 <!-- meaningfull constants -->

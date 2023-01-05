@@ -309,15 +309,15 @@ StScrollBar StButton#hhandle:active {
   padding-left: 24px;
 }
 .popup-menu-item.selected {
-  background-color: rgba(200, 219, 236, 0.08);
+  background-color: rgba(59, 79, 97, 0.7);
   transition-duration: 0ms;
 }
 .popup-menu-item.selected, .popup-menu-item.selected:active {
-  color: #c8dbec;
+  color: #ffffff;
 }
 .popup-menu-item:active {
   background-color: rgba(200, 219, 236, 0.12);
-  color: #c8dbec;
+  color: #ffffff;
   transition-duration: 200ms;
 }
 .popup-menu-item:checked {
@@ -1737,7 +1737,7 @@ StScrollBar StButton#hhandle:active {
 #panel.unlock-screen .panel-corner, #panel.login-screen .panel-corner, #panel:overview .panel-corner {
   -panel-corner-opacity: 0;
 }
-#panel.unlock-screen .panel-button, #panel.login-screen .panel-button, panel:overview .panel-button {
+#panel.unlock-screen .panel-button, #panel.login-screen .panel-button, #panel:overview .panel-button {
   color: rgba(255, 255, 255, 0.7);
 }
 #panel.unlock-screen .panel-button:hover, #panel.login-screen .panel-button:hover, #panel:overview .panel-button:hover, #panel.unlock-screen .panel-button:active, #panel.login-screen .panel-button:active, #panel:overview .panel-button:active, #panel.unlock-screen .panel-button:overview, #panel.login-screen .panel-button:overview, #panel:overview .panel-button:overview, #panel.unlock-screen .panel-button:focus, #panel.login-screen .panel-button:focus, #panel:overview .panel-button:focus, #panel.unlock-screen .panel-button:checked, #panel.login-screen .panel-button:checked, #panel:overview .panel-button:checked {

@@ -1,12 +1,12 @@
 [Desktop Entry]
 Type=X-GNOME-Metatheme
-Name=VALYRIAN-Cold-Steel
+Name=Valyrian-Cold-Steel
 Comment=A flat theme with transparent elements
 Encoding=UTF-8
 
 [X-GNOME-Metatheme]
-GtkTheme=VALYRIAN-Cold-Steel
-MetacityTheme=VALYRIAN-Cold-Steel
+GtkTheme=Valyrian-Cold-Steel
+MetacityTheme=Valyrian-Cold-Steel
 IconTheme=gnome
 CursorTheme=DMZ-Black
 ButtonLayout=menu:minimize,maximize,close
