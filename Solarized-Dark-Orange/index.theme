@@ -1,0 +1,11 @@
+[Desktop Entry]
+Type=X-GNOME-Metatheme
+Name=Solarized-Dark-Orange
+Comment=Based on the Official Color Pallet created by Ethan Schoonove
+
+[X-GNOME-Metatheme]
+Name=Solarized-Dark-Orange
+GtkTheme=Solarized-Dark-Orange
+IconTheme=Solarized-Dark-Orange
+MetacityTheme=Solarized-Dark-Orange
+

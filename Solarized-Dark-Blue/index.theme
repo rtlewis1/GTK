@@ -1,0 +1,10 @@
+[Desktop Entry]
+Type=X-GNOME-Metatheme
+Name=Solarized-Dark-Blue
+Comment=Based on the Official Color Pallet created by Ethan Schoonove
+
+[X-GNOME-Metatheme]
+Name=Solarized-Dark-Blue
+GtkTheme=Solarized-Dark-Blue
+IconTheme=Solarized-Dark-Blue
+MetacityTheme=Solarized-Dark-Blue
