@@ -1,0 +1,12 @@
+[Desktop Entry]
+Type=X-GNOME-Metatheme
+Name=ChromeOS-DEEP-Oceanic
+Comment=A Material Design theme
+Encoding=UTF-8
+
+[X-GNOME-Metatheme]
+GtkTheme=ChromeOS-DEEP-Oceanic
+MetacityTheme=ChromeOS-DEEP-Oceanic
+IconTheme=Adwaita
+CursorTheme=Adwaita
+CursorSize=24
