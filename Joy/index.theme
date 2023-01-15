@@ -1,0 +1,10 @@
+[Desktop Entry]
+Type=X-GNOME-Metatheme
+Name=joy!
+Comment=A fun and colorful theme
+
+[X-GNOME-Metatheme]
+Name=joy!
+GtkTheme=joy!
+IconTheme=Numix
+MetacityTheme=joy!
