@@ -1,7 +1,7 @@
 # VALYRIAN-Blue-Steel GTK Theme
 
 gtk-color-scheme =
-"base_color:#0e1b28\nbg_color:#112333\ntooltip_bg_color:#112333\nselected_bg_color:#244766\ntext_color:#d3dae3\nfg_color:#c8dbec\ntooltip_fg_color:#c8dbec\nselected_fg_color:#ffffff\nmenubar_bg_color:#0b1721\nmenubar_fg_color:#c8dbec\ntoolbar_bg_color:#112333\ntoolbar_fg_color:#c8dbec\nmenu_bg_color:#0b1721\nmenu_fg_color:#c8dbec\npanel_bg_color:#112333\npanel_fg_color:#c8dbec\nlink_color:#37546f\nbtn_bg_color:#13324d\nbtn_fg_color:#c8ecdb\ntitlebar_bg_color:#0b1721\ntitlebar_fg_color:#c8dbec\nprimary_caret_color:#e6e6e6\nsecondary_caret_color:#e6e6e6\naccent_bg_color:#4a7aa5\n"
+"base_color:#0e1b28\nbg_color:#112333\ntooltip_bg_color:#112333\nselected_bg_color:#244766\ntext_color:#d3dae3\nfg_color:#c8dbec\ntooltip_fg_color:#c8dbec\nselected_fg_color:#ffffff\nmenubar_bg_color:#0b1721\nmenubar_fg_color:#c8dbec\ntoolbar_bg_color:#112333\ntoolbar_fg_color:#c8dbec\nmenu_bg_color:#0b1721\nmenu_fg_color:#c8dbec\npanel_bg_color:#112333\npanel_fg_color:#c8dbec\nlink_color:#3172AB\nbtn_bg_color:#13324d\nbtn_fg_color:#c8dbec\ntitlebar_bg_color:#0b1721\ntitlebar_fg_color:#c8dbec\nprimary_caret_color:#e6e6e6\nsecondary_caret_color:#e6e6e6\naccent_bg_color:#3d7cb2\n"
 # Default Style
 
 style "murrine-default" {

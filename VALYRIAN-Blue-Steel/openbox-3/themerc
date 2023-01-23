@@ -3,8 +3,6 @@
 # License: CC-BY-SA-2.0
 # Base Creator: Satyajit Sahoo
 
-# @TODO: finish replacing the colors here
-
 
 # Menu
 menu.border.color: #c8dbec
@@ -70,7 +68,7 @@ window.active.button.hover.image.color: #244766
 #window.active.button.toggled.image.color: #ffffff
 
 # Inactive window
-window.inactive.border.color: #0e1a26
+window.inactive.border.color: #132433
 
 window.inactive.title.bg: flat solid
 window.inactive.title.bg.color: #0b1721
@@ -126,7 +124,7 @@ osd.unhilight.bg.color: #112333
 
 osd.button.unpressed.bg: flat border
 osd.button.unpressed.bg.color: #163959
-#osd.button.unpressed.*.border.color: #c8ecdb
+#osd.button.unpressed.*.border.color: #c8dbec
 
 osd.button.pressed.bg: flat border
 osd.button.pressed.bg.color: #244766
