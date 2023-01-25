@@ -1,0 +1,12 @@
+[Desktop Entry]
+Type=X-GNOME-Metatheme
+Name=Material-Black-Lime-BE
+Comment=A Material Design theme
+Encoding=UTF-8
+
+[X-GNOME-Metatheme]
+GtkTheme=Material-Black-Lime-BE
+MetacityTheme=Material-Black-Lime-BE
+IconTheme=Material-Black-Lime
+CursorTheme=Material-Black-Lime
+CursorSize=24

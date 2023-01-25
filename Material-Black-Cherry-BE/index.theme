@@ -1,0 +1,12 @@
+[Desktop Entry]
+Type=X-GNOME-Metatheme
+Name=Material-Black-Cherry-BE
+Comment=A Material Design theme
+Encoding=UTF-8
+
+[X-GNOME-Metatheme]
+GtkTheme=Material-Black-Cherry-BE
+MetacityTheme=Material-Black-Cherry-BE
+IconTheme=Material-Black-Cherry
+CursorTheme=Material-Black-Cherry
+CursorSize=24
