@@ -12,4 +12,3 @@ If installing manually, make sure to install the dependency: "Murrine theme engi
 For icons: 1) Extract the "tar.xz" file into your "~/.icons/" folder - to install for current user only - or into the "/usr/share/icons/" folder - for the icons and folders to be applied globally. 2) Use GNOME Tweaks, Dconf Editor, or an equivalent 'Look & Feel'/configuration app to enable it for your desktop.
 
 Logging out and then logging back in may be necessary on some operating systems to fully implement themes and icons.
-
