@@ -1,0 +1,12 @@
+[Desktop Entry]
+Type=X-GNOME-Metatheme
+Name=FRESH-Cherries-LA
+Comment=A Material Design theme
+Encoding=UTF-8
+
+[X-GNOME-Metatheme]
+GtkTheme=FRESH-Cherries-LA
+MetacityTheme=FRESH-Cherries-LA
+IconTheme=Adwaita
+CursorTheme=Adwaita
+CursorSize=24

@@ -1,0 +1,12 @@
+[Desktop Entry]
+Type=X-GNOME-Metatheme
+Name=FRESH-Plum
+Comment=A Material Design theme
+Encoding=UTF-8
+
+[X-GNOME-Metatheme]
+GtkTheme=FRESH-Plum
+MetacityTheme=FRESH-Plum
+IconTheme=Adwaita
+CursorTheme=Adwaita
+CursorSize=24

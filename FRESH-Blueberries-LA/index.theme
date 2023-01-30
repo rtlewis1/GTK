@@ -1,0 +1,12 @@
+[Desktop Entry]
+Type=X-GNOME-Metatheme
+Name=FRESH-Blueberries-LA
+Comment=A Material Design theme
+Encoding=UTF-8
+
+[X-GNOME-Metatheme]
+GtkTheme=FRESH-Blueberries-LA
+MetacityTheme=FRESH-Blueberries-LA
+IconTheme=Adwaita
+CursorTheme=Adwaita
+CursorSize=24
