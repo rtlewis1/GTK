@@ -128,7 +128,7 @@ StEntry StLabel.hint-text {
 }
 .lg-obj-inspector-button:active, .app-folder-dialog .folder-name-container .edit-folder-button:active, .modal-dialog .modal-dialog-linked-button:active, .hotplug-notification-item:active, .notification-banner .notification-button:active,
 .button:active {
-  color: #D33683;
+  color: #FF4D4D;
   background-color: rgba(211, 54, 131, 0.16);
   border-color: transparent;
   box-shadow: 0 0 transparent;
