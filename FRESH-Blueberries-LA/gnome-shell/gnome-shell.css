@@ -2002,7 +2002,7 @@ StScrollBar StButton#hhandle:active {
   width: 32px;
   margin-bottom: 0;
   border-radius: 0;
-  background-color: #e6e6e6;
+  background-color: #7c7cbf;
 }
 
 .rename-folder-popup .rename-folder-popup-item {
