@@ -1,0 +1,11 @@
+[Desktop Entry]
+Type=X-GNOME-Metatheme
+Name=Joy-DarkMode
+Comment=A fun and colorful theme.
+Encoding=UTF-8
+
+[X-GNOME-Metatheme]
+Name=Joy-DarkMode
+GtkTheme=Joy-DarkMode
+IconTheme=Numix
+MetacityTheme=Joy-DarkMode
