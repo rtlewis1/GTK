@@ -1,4 +1,4 @@
-joy! is a new GTK, xfwm4, openbox-3, GNOME-Shell and Cinnamon light-mode theme which showcases a color scheme that is highly readable, colorful, and fun. The theme represents a careful crafting of modernized Numix elements, which have been structurally modified to have an out front look and lots of rounded corners - all aiming to bring a clean, colorful, and festive experience to your desktop.
+joy! is a new GTK, xfwm4, openbox-3, GNOME-Shell and Cinnamon light-mode and dark-mode theme which showcases a color scheme that is highly readable, colorful, and fun. The theme represents a careful crafting of modernized Numix elements, which have been structurally modified to have an out front look and lots of rounded corners - all aiming to bring a clean, colorful, and festive experience to your desktop.
 
 
 Tremendous thanks to the Numix team for inspiration, expertise and contributions at: "https://github.com/numixproject/". It is always a pleasure to be a part of any work you have advanced.
