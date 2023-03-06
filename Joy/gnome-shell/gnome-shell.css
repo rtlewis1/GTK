@@ -1659,7 +1659,7 @@ StScrollBar StButton#hhandle:active {
   transition-duration: 100ms;
   border: 0;
   border-radius: 0;
-  color: rgba(255, 255, 255, 0.7);
+  color: rgba(200, 219, 236, 0.7);
   text-shadow: none;
   font-weight: bold;
 }
