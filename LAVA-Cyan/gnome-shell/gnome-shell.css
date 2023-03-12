@@ -98,10 +98,10 @@ StEntry StLabel.hint-text {
   min-width: 48px;
   padding: 0 8px;
   border: 0;
-  border-radius: 0px;
+  border-radius: 3px;
   font-size: 10.5pt;
   font-weight: 500;
-  color: #009BA6;
+  color: #3677B3;
   background-color: transparent;
   border-color: transparent;
   box-shadow: 0 0 transparent;
