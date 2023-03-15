@@ -1614,7 +1614,7 @@ StScrollBar StButton#hhandle:active {
 }
 
 #overviewGroup {
-  background-color: #527b92;
+  background-color: #376f8c;
   color: #c2d9e5;
 }
 #overviewGroup StScrollBar StBin#trough {
@@ -1835,19 +1835,19 @@ StScrollBar StButton#hhandle:active {
   selection-background-color: rgba(194, 217, 229, 0.3);
   selected-color: #c2d9e5;
   transition-duration: 100ms;
-  background-color: rgba(255, 255, 255, 0.04);
+  background-color: #7642d8;
   border-color: transparent;
-  box-shadow: inset 0 -1px rgba(194, 217, 229, 0.3);
+  box-shadow: inset 0 -1px #8a61d8;
   margin-top: 16px;
   margin-bottom: 8px;
 }
 .search-entry:hover {
-  box-shadow: inset 0 -1px rgba(194, 217, 229, 0.3);
+  box-shadow: inset 0 -1px #00e500;
   color: rgba(194, 217, 229, 0.5);
 }
 .search-entry:focus {
   border-color: transparent;
-  box-shadow: inset 0 -2px #c2d9e5;
+  box-shadow: inset 0 -2px #ff5400;
   padding: 0 8px;
   border: 0;
   color: #c2d9e5;
