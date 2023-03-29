@@ -1837,12 +1837,12 @@ StScrollBar StButton#hhandle:active {
   transition-duration: 100ms;
   background-color: rgba(255, 255, 255, 0.04);
   border-color: transparent;
-  box-shadow: inset 0 -1px #3d7cb2;
+  box-shadow: inset 0 -1px #5c7c99;
   margin-top: 16px;
   margin-bottom: 8px;
 }
 .search-entry:hover {
-  box-shadow: inset 0 -1px #5c7c99;
+  box-shadow: inset 0 -1px #3d7cb2;
   color: rgba(200, 219, 236, 0.5);
 }
 .search-entry:focus {
