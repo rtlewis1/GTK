@@ -1614,7 +1614,7 @@ StScrollBar StButton#hhandle:active {
 }
 
 #overviewGroup {
-  background-color: #000000;
+  background-color: #081100;
   color: #c1c1c1;
 }
 #overviewGroup StScrollBar StBin#trough {
