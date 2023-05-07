@@ -2024,7 +2024,7 @@ StScrollBar StButton#hhandle:active {
   width: 12px;
   height: 12px;
   border-radius: 12px;
-  background-color: #e0e0e0;
+  background-color: #465acc;
 }
 
 .apps-scroll-view {
