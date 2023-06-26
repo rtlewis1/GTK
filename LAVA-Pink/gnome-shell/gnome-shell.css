@@ -1850,7 +1850,7 @@ StScrollBar StButton#hhandle:active {
   box-shadow: inset 0 -2px #bf5689;
   padding: 0 8px;
   border: 0;
-  color: #ced7e5;
+  color: #ff419e;
 }
 .search-entry StLabel.hint-text {
   color: rgba(206, 215, 229, 0.7);
