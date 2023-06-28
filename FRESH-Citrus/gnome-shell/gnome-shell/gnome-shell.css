@@ -1850,7 +1850,7 @@ StScrollBar StButton#hhandle:active {
   box-shadow: inset 0 -2px #e6e6e6;
   padding: 0 8px;
   border: 0;
-  color: #e6e6e6;
+  color: #d8a661;
 }
 .search-entry StLabel.hint-text {
   color: rgba(230, 230, 230, 0.7);
@@ -1862,7 +1862,7 @@ StScrollBar StButton#hhandle:active {
 }
 .search-entry:hover .search-entry-icon,
 .search-entry:focus .search-entry-icon {
-  color: #e6e6e6;
+  color: #d8a661;
 }
 
 /* App Grid */
