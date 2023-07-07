@@ -1862,7 +1862,7 @@ StScrollBar StButton#hhandle:active {
 }
 .search-entry:hover .search-entry-icon,
 .search-entry:focus .search-entry-icon {
-  color: #c8dbec;
+  color: #e56637;
 }
 
 /* App Grid */
