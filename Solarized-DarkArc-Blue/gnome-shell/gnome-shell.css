@@ -317,13 +317,13 @@ StScrollBar StButton#hhandle:active {
 }
 .popup-menu-item:active {
   background-color: #268bd2;
-  color: #eee8d5;
+  color: #eee8d5;font-weight: bold;
   transition-duration: 200ms;
 }
 .popup-menu-item:checked {
   box-shadow: none;
   background-color: rgba(38, 139, 210, 0.32);
-  font-weight: normal;
+  font-weight: bold;
 }
 .popup-menu-item:checked.selected {
   background-color: rgba(38, 139, 210, 0.4016);
