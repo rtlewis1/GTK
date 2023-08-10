@@ -1905,7 +1905,7 @@ StScrollBar StButton#hhandle:active {
   border-image: none;
   background-image: none;
   background-color: rgba(242, 237, 255, 0.12);
-  color: inherit;
+  color: #a987ff;
   transition-duration: 0ms;
 }
 .app-well-app:active .overview-icon, .app-well-app:checked .overview-icon,
