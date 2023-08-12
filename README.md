@@ -1,6 +1,6 @@
 LIQUID is a flat, dark-mode theme with transparent elements, and high contrast hues. This new theme accommodates GTK, xfwm4, openbox-3, GNOME-Shell, and Cinnamon desktop environments.
 
-THREE COLORS TO CHOOSE FROM: TURQUOISE, SLATE, AND INK
+THREE COLORS TO CHOOSE FROM: TURQUOISE, SLATE & INK
 
 LIQUID is grounded on the Arc theme, ranked as the most popular Linux desktop theme for the past several years, according to major sources: (Best 12 GNOME Themes of 2022) https://linuxhint.com/best-gnome-themes/; (Top 15 Gnome Themes) https://www.ubuntupit.com/top-15-best-gnome-shell-themes-gnome-desktop; (Best GNOME Themes For Your Ubuntu Desktop in 2022) https://www.debugpoint.com/gnome-themes-2022/. For this reason, the developers have taken mindful care to keep every element in line with what Arc fans would appreciate. The result, we believe, delivers maximum comfort and readability to users; while simultaneously looking robust and elegant.
 
