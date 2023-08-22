@@ -1,12 +1,12 @@
 [Desktop Entry]
 Type=X-GNOME-Metatheme
-Name=Material-Black-Pistachio
+Name=Material-Black-Pistachio-BE
 Comment=A Material Design theme
 Encoding=UTF-8
 
 [X-GNOME-Metatheme]
-GtkTheme=Material-Black-Pistachio
-MetacityTheme=Material-Black-Pistachio
+GtkTheme=Material-Black-Pistachio-BE
+MetacityTheme=Material-Black-Pistachio-BE
 IconTheme=Material-Black-Pistachio
-CursorTheme=Material-Black-Pistachio
+CursorTheme=Adwaita
 CursorSize=24

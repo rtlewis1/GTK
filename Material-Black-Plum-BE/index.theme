@@ -1,12 +1,12 @@
 [Desktop Entry]
 Type=X-GNOME-Metatheme
-Name=Material-Black-Plum
+Name=Material-Black-Plum-BE
 Comment=A Material Design theme
 Encoding=UTF-8
 
 [X-GNOME-Metatheme]
-GtkTheme=Material-Black-Plum
-MetacityTheme=Material-Black-Plum
+GtkTheme=Material-Black-Plum-BE
+MetacityTheme=Material-Black-Plum-BE
 IconTheme=Material-Black-Plum
-CursorTheme=Material-Black-Plum
+CursorTheme=Adwaita
 CursorSize=24
