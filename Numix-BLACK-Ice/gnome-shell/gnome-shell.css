@@ -1885,7 +1885,7 @@ StScrollBar StButton#hhandle:active {
   border: 0;
   border-radius: 15px;
   background-color: transparent;
-  color: inherit;
+  color: #6dbdff;
   text-align: center;
   transition-duration: 100ms;
 }
@@ -1905,7 +1905,8 @@ StScrollBar StButton#hhandle:active {
   border-image: none;
   background-image: none;
   background-color: rgba(237, 246, 255, 0.12);
-  color: #6dbdff;
+  color: #87C9FF;
+  font-weight: bold;
   transition-duration: 0ms;
 }
 .app-well-app:active .overview-icon, .app-well-app:checked .overview-icon,
