@@ -119,8 +119,8 @@ StEntry StLabel.hint-text {
 }
 .lg-obj-inspector-button:hover, .app-folder-dialog .folder-name-container .edit-folder-button:hover, .modal-dialog .modal-dialog-linked-button:hover, .hotplug-notification-item:hover, .notification-banner .notification-button:hover,
 .button:hover {
-  color: #D33683;
-  background-color: rgba(211, 54, 131, 0.12);
+  color: #FF0000;
+  background-color: rgba(211, 54, 131, 0.2);
   border-color: transparent;
   box-shadow: 0 0 transparent;
   text-shadow: none;
@@ -128,7 +128,7 @@ StEntry StLabel.hint-text {
 }
 .lg-obj-inspector-button:active, .app-folder-dialog .folder-name-container .edit-folder-button:active, .modal-dialog .modal-dialog-linked-button:active, .hotplug-notification-item:active, .notification-banner .notification-button:active,
 .button:active {
-  color: #FF4D4D;
+  color: #4CFF00;
   background-color: rgba(211, 54, 131, 0.16);
   border-color: transparent;
   box-shadow: 0 0 transparent;
