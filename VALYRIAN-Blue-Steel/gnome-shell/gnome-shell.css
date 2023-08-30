@@ -112,7 +112,7 @@ StEntry StLabel.hint-text {
 .lg-obj-inspector-button:focus, .app-folder-dialog .folder-name-container .edit-folder-button:focus, .modal-dialog .modal-dialog-linked-button:focus, .hotplug-notification-item:focus, .notification-banner .notification-button:focus,
 .button:focus {
   color: #3d6d99;
-  background-color: rgba(36, 71, 102, 0.08);
+  background-color: rgba(36, 71, 102, 0.15);
   text-shadow: none;
   icon-shadow: none;
   box-shadow: 0 0 transparent;
@@ -120,7 +120,7 @@ StEntry StLabel.hint-text {
 .lg-obj-inspector-button:hover, .app-folder-dialog .folder-name-container .edit-folder-button:hover, .modal-dialog .modal-dialog-linked-button:hover, .hotplug-notification-item:hover, .notification-banner .notification-button:hover,
 .button:hover {
   color: #3d7cb2;
-  background-color: rgba(36, 71, 102, 0.08);
+  background-color: rgba(36, 71, 102, 0.35);
   border-color: transparent;
   box-shadow: 0 0 transparent;
   text-shadow: none;
