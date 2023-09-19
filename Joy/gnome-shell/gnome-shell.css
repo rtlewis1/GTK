@@ -112,15 +112,15 @@ StEntry StLabel.hint-text {
 .lg-obj-inspector-button:focus, .app-folder-dialog .folder-name-container .edit-folder-button:focus, .modal-dialog .modal-dialog-linked-button:focus, .hotplug-notification-item:focus, .notification-banner .notification-button:focus,
 .button:focus {
   color: #8a61d8;
-  background-color: rgba(138, 97, 216, 0.12);
+  background-color: rgba(138, 97, 216, 0.15);
   text-shadow: none;
   icon-shadow: none;
   box-shadow: 0 0 transparent;
 }
 .lg-obj-inspector-button:hover, .app-folder-dialog .folder-name-container .edit-folder-button:hover, .modal-dialog .modal-dialog-linked-button:hover, .hotplug-notification-item:hover, .notification-banner .notification-button:hover,
 .button:hover {
-  color: #8a61d8;
-  background-color: rgba(138, 97, 216, 0.12);
+  color: #FF8F40;
+  background-color: rgba(138, 97, 216, 0.1);
   border-color: transparent;
   box-shadow: 0 0 transparent;
   text-shadow: none;
@@ -128,8 +128,8 @@ StEntry StLabel.hint-text {
 }
 .lg-obj-inspector-button:active, .app-folder-dialog .folder-name-container .edit-folder-button:active, .modal-dialog .modal-dialog-linked-button:active, .hotplug-notification-item:active, .notification-banner .notification-button:active,
 .button:active {
-  color: #FF5E00;
-  background-color: #5DFFAC;
+  color: #00A615;
+  background-color: rgba(93, 255, 172, 0.3);
   border-color: transparent;
   box-shadow: 0 0 transparent;
   text-shadow: none;
@@ -138,7 +138,7 @@ StEntry StLabel.hint-text {
 }
 .lg-obj-inspector-button:insensitive, .app-folder-dialog .folder-name-container .edit-folder-button:insensitive, .modal-dialog .modal-dialog-linked-button:insensitive, .hotplug-notification-item:insensitive, .notification-banner .notification-button:insensitive,
 .button:insensitive {
-  color: rgba(2, 12, 17, 0.3);
+  color: rgba(2, 12, 17, 0.35);
   background-color: transparent;
   border-color: transparent;
   box-shadow: 0 0 transparent;
