@@ -256,11 +256,11 @@ StScrollBar StButton#hhandle {
 }
 StScrollBar StButton#vhandle:hover,
 StScrollBar StButton#hhandle:hover {
-  background-color: rgba(153, 153, 153, 0.6);
+  background-color: #4bd6d8;
 }
 StScrollBar StButton#vhandle:active,
 StScrollBar StButton#hhandle:active {
-  background-color: rgba(153, 153, 153, 0.7);
+  background-color: #236466;
 }
 
 /* Popovers/Menus */
