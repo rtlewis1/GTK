@@ -1659,7 +1659,7 @@ StScrollBar StButton#hhandle:active {
   transition-duration: 100ms;
   border: 0;
   border-radius: 0;
-  color: #989FA6;
+  color: rgba(133, 140, 145, 1.0);
   text-shadow: none;
   font-weight: bold;
 }
@@ -1675,7 +1675,7 @@ StScrollBar StButton#hhandle:active {
 }
 #panel .panel-button:hover {
   box-shadow: none;
-  color: #858c91;
+  color: #bbbbbb;
   text-shadow: none;
 }
 #panel .panel-button:hover.clock-display {
