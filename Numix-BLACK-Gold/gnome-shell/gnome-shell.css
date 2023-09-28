@@ -323,7 +323,7 @@ StScrollBar StButton#hhandle:active {
 }
 .popup-menu-item:checked {
   box-shadow: none;
-  background-color: #ffffff;
+  background-color: #776d4b;
   font-weight: bold;
 }
 .popup-menu-item:checked.selected {
