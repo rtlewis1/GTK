@@ -253,15 +253,15 @@ StScrollBar StButton#hhandle {
   transition-duration: 100ms;
   margin: 4px;
   border-radius: 4px;
-  background-color: rgba(221, 221, 221, 0.5);
+  background-color: #4B59A6;
 }
 StScrollBar StButton#vhandle:hover,
 StScrollBar StButton#hhandle:hover {
-  background-color: #4c69ff;
+  background-color: #5974FF;
 }
 StScrollBar StButton#vhandle:active,
 StScrollBar StButton#hhandle:active {
-  background-color: rgba(221, 221, 221, 0.7);
+  background-color: #394EBF;
 }
 
 /* Popovers/Menus */
