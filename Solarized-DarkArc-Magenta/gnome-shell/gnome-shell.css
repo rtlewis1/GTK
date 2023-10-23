@@ -2095,7 +2095,7 @@ StScrollBar StButton#hhandle:active {
   border-radius: 0;
   box-shadow: none;
   background-color: transparent;
-  color: inherit;
+  color: #ff419d;
   text-shadow: none;
 }
 
