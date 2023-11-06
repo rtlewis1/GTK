@@ -1905,7 +1905,7 @@ StScrollBar StButton#hhandle:active {
   border-image: none;
   background-image: none;
   background-color: rgba(189, 195, 204, 0.08);
-  color: #3FCDFF;
+  color: #4DD0FF;
   font-weight: bold;
   transition-duration: 0ms;
 }
