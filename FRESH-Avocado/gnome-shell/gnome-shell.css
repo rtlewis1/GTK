@@ -607,7 +607,7 @@ StScrollBar StButton#hhandle:active {
 }
 .calendar .calendar-day-base:selected {
   border-color: transparent;
-  background-color: #7fa55b !important;
+  background-color: #93BF69 !important;
   color: rgba(0, 0, 0, 0.87) !important;
   font-weight: 500 !important;
 }
