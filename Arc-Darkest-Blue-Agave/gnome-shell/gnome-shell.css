@@ -286,8 +286,8 @@ StScrollBar StButton#hhandle:active {
 
 .popup-menu-content, .candidate-popup-content {
   margin: 8px;
-  padding: 8px 0;
-  border-radius: 3px;
+  padding: 12px;
+  border-radius: 6px;
   box-shadow: 0 2px 8px rgba(0, 0, 0, 0.44);
   background-color: #31353f;
   color: #c9d5e5;
@@ -295,7 +295,7 @@ StScrollBar StButton#hhandle:active {
 
 .popup-menu-item {
   spacing: 8px;
-  padding: 0;
+  padding: 6px 10px !important;
   transition-duration: 100ms;
 }
 .popup-menu-item:ltr {
