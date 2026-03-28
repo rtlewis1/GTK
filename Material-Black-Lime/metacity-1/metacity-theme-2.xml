@@ -2,10 +2,9 @@
 <metacity_theme>
 <info>
   <name>Material-Black-Lime</name>
-  <author>rtl88</author>
-  <copyright>CC-BY-SA 2.0</copyright>
-  <date>2019</date>
-  <Materia-dark-compact creator>nana-4</Materia-dark-compact creator>
+  <author>nana-4</author>
+  <copyright>GPL</copyright>
+  <date>2020</date>
   <description>Material-Black-Lime Metacity theme</description>
 </info>
 
@@ -13,10 +12,10 @@
 
 <constant name="C_titlebar_focused" value="#09090a"/>
 <constant name="C_titlebar_unfocused" value="#1a1c1e"/>
-<constant name="C_highlight_focused" value="blend/#09090a/#a5a5a5/0.05"/>
-<constant name="C_highlight_unfocused" value="blend/#1a1c1e/#a5a5a5/0.05"/>
-<constant name="C_title_focused" value="blend/#09090a/#a5a5a5/0.87"/>
-<constant name="C_title_unfocused" value="blend/#1a1c1e/#a5a5a5/0.6"/>
+<constant name="C_highlight_focused" value="blend/#09090a/#A3A3A3/0.05"/>
+<constant name="C_highlight_unfocused" value="blend/#1a1c1e/#A3A3A3/0.05"/>
+<constant name="C_title_focused" value="blend/#09090a/#A3A3A3/0.87"/>
+<constant name="C_title_unfocused" value="blend/#1a1c1e/#A3A3A3/0.6"/>
 
 <!-- geometries -->
 

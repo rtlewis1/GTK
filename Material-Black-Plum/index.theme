@@ -7,6 +7,6 @@ Encoding=UTF-8
 [X-GNOME-Metatheme]
 GtkTheme=Material-Black-Plum
 MetacityTheme=Material-Black-Plum
-IconTheme=Material-Black-Plum
-CursorTheme=Material-Black-Plum
+IconTheme=Adwaita
+CursorTheme=Adwaita
 CursorSize=24
