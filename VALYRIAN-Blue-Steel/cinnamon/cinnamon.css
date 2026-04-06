@@ -4,7 +4,7 @@ stage {
   color: #c8dbec; }
 
 .label-shadow {
-  color: rgba(0, 0, 0, 0); }
+  color: transparent; }
 
 .menu #notification .notification-button, .menu #notification .notification-icon-button,
 .popup-menu #notification .notification-button,
@@ -128,7 +128,8 @@ stage {
     background-color: #0f1f2d;
     border-color: 1px solid #122433;
     box-shadow: inset 0 2px 4px rgba(15, 31, 45, 0.05); }
-  .menu #notification StEntry StIcon.capslock-warning, .popup-menu #notification StEntry StIcon.capslock-warning, #menu-search-entry StIcon.capslock-warning {
+  .menu #notification StEntry StIcon.capslock-warning,
+  .popup-menu #notification StEntry StIcon.capslock-warning, #menu-search-entry StIcon.capslock-warning {
     icon-size: 16px;
     warning-color: #938d6d;
     padding: 0 4px; }
@@ -182,8 +183,8 @@ StScrollBar {
 
 .separator {
   -gradient-height: 1px;
-  -gradient-start: rgba(0, 0, 0, 0);
-  -gradient-end: rgba(0, 0, 0, 0);
+  -gradient-start: transparent;
+  -gradient-end: transparent;
   -margin-horizontal: 1.5em;
   height: 1em; }
 
@@ -191,9 +192,9 @@ StScrollBar {
 .slider {
   -slider-height: 4px;
   -slider-background-color: #132433;
-  -slider-border-color: rgba(0, 0, 0, 0);
+  -slider-border-color: transparent;
   -slider-active-background-color: #244766;
-  -slider-active-border-color: rgba(0, 0, 0, 0);
+  -slider-active-border-color: transparent;
   -slider-border-width: 0;
   -slider-handle-radius: 4px;
   height: 18px;
@@ -289,60 +290,47 @@ StScrollBar {
   .popup-menu-arrow {
     icon-size: 16px; }
   .menu .popup-sub-menu,
-  .popup-menu .popup-sub-menu,
-  .popup-combo-menu .popup-sub-menu {
+  .popup-menu .popup-sub-menu, .popup-combo-menu .popup-sub-menu {
     background-gradient-direction: none;
     box-shadow: none;
     border-image: url("light-assets/menu/submenu.svg") 9 9 9 9; }
     .menu .popup-sub-menu .popup-menu-item:ltr,
-    .popup-menu .popup-sub-menu .popup-menu-item:ltr,
-    .popup-combo-menu .popup-sub-menu .popup-menu-item:ltr {
+    .popup-menu .popup-sub-menu .popup-menu-item:ltr, .popup-combo-menu .popup-sub-menu .popup-menu-item:ltr {
       padding-right: 0em; }
     .menu .popup-sub-menu .popup-menu-item:rtl,
-    .popup-menu .popup-sub-menu .popup-menu-item:rtl,
-    .popup-combo-menu .popup-sub-menu .popup-menu-item:rtl {
+    .popup-menu .popup-sub-menu .popup-menu-item:rtl, .popup-combo-menu .popup-sub-menu .popup-menu-item:rtl {
       padding-left: 0em; }
     .menu .popup-sub-menu StScrollBar,
-    .popup-menu .popup-sub-menu StScrollBar,
-    .popup-combo-menu .popup-sub-menu StScrollBar {
+    .popup-menu .popup-sub-menu StScrollBar, .popup-combo-menu .popup-sub-menu StScrollBar {
       padding: 4px; }
       .menu .popup-sub-menu StScrollBar StBin#trough, .menu .popup-sub-menu StScrollBar StBin#vhandle,
       .popup-menu .popup-sub-menu StScrollBar StBin#trough,
-      .popup-menu .popup-sub-menu StScrollBar StBin#vhandle,
-      .popup-combo-menu .popup-sub-menu StScrollBar StBin#trough,
-      .popup-combo-menu .popup-sub-menu StScrollBar StBin#vhandle {
+      .popup-menu .popup-sub-menu StScrollBar StBin#vhandle, .popup-combo-menu .popup-sub-menu StScrollBar StBin#trough, .popup-combo-menu .popup-sub-menu StScrollBar StBin#vhandle {
         border-width: 0; }
   .menu .popup-menu-content,
-  .popup-menu .popup-menu-content,
-  .popup-combo-menu .popup-menu-content {
+  .popup-menu .popup-menu-content, .popup-combo-menu .popup-menu-content {
     padding: 1em 1px; }
   .menu .popup-menu-item,
-  .popup-menu .popup-menu-item,
-  .popup-combo-menu .popup-menu-item {
+  .popup-menu .popup-menu-item, .popup-combo-menu .popup-menu-item {
     padding: .4em 1.75em;
     spacing: 1em; }
     .menu .popup-menu-item:active,
-    .popup-menu .popup-menu-item:active,
-    .popup-combo-menu .popup-menu-item:active {
+    .popup-menu .popup-menu-item:active, .popup-combo-menu .popup-menu-item:active {
       color: #0e1b28;
       background-color: transparent;
       border-image: url("common-assets/menu/menu-hover.svg") 9 9 1 1; }
     .menu .popup-menu-item:insensitive,
-    .popup-menu .popup-menu-item:insensitive,
-    .popup-combo-menu .popup-menu-item:insensitive {
+    .popup-menu .popup-menu-item:insensitive, .popup-combo-menu .popup-menu-item:insensitive {
       color: rgba(200, 219, 236, 0.5);
       background: none; }
   .menu .popup-inactive-menu-item,
-  .popup-menu .popup-inactive-menu-item,
-  .popup-combo-menu .popup-inactive-menu-item {
+  .popup-menu .popup-inactive-menu-item, .popup-combo-menu .popup-inactive-menu-item {
     color: #c8dbec; }
     .menu .popup-inactive-menu-item:insensitive,
-    .popup-menu .popup-inactive-menu-item:insensitive,
-    .popup-combo-menu .popup-inactive-menu-item:insensitive {
+    .popup-menu .popup-inactive-menu-item:insensitive, .popup-combo-menu .popup-inactive-menu-item:insensitive {
       color: rgba(200, 219, 236, 0.55); }
   .menu .popup-menu-item:active .popup-inactive-menu-item,
-  .popup-menu .popup-menu-item:active .popup-inactive-menu-item,
-  .popup-combo-menu .popup-menu-item:active .popup-inactive-menu-item {
+  .popup-menu .popup-menu-item:active .popup-inactive-menu-item, .popup-combo-menu .popup-menu-item:active .popup-inactive-menu-item {
     color: #0e1b28; }
   .menu-icon,
   .popup-menu-icon {
@@ -350,9 +338,9 @@ StScrollBar {
 
 .popup-menu-boxpointer {
   -arrow-border-radius: 3px;
-  -arrow-background-color: rgba(0, 0, 0, 0);
+  -arrow-background-color: transparent;
   -arrow-border-width: 1px;
-  -arrow-border-color: rgba(0, 0, 0, 0);
+  -arrow-border-color: transparent;
   -arrow-base: 0;
   -arrow-rise: 0; }
 
@@ -789,21 +777,21 @@ StScrollBar {
     background: rgba(255, 255, 255, 0.2); }
 
 .switcher-arrow {
-  border-color: rgba(0, 0, 0, 0);
+  border-color: transparent;
   color: #c8dbec; }
   .switcher-arrow:highlighted {
-    border-color: rgba(0, 0, 0, 0);
+    border-color: transparent;
     color: white; }
 
 .thumbnail-scroll-gradient-left {
-  background-color: rgba(0, 0, 0, 0);
+  background-color: transparent;
   border-radius: 24px;
   border-radius-topright: 0px;
   border-radius-bottomright: 0px;
   width: 60px; }
 
 .thumbnail-scroll-gradient-right {
-  background-color: rgba(0, 0, 0, 0);
+  background-color: transparent;
   border-radius: 24px;
   border-radius-topleft: 0px;
   border-radius-bottomleft: 0px;
@@ -1002,7 +990,7 @@ StScrollBar {
 
 .menu-favorites-button {
   padding: 10px;
-  border: 1px solid rgba(0, 0, 0, 0); }
+  border: 1px solid transparent; }
 
 .menu-places-box {
   padding: 10px;
@@ -1019,7 +1007,7 @@ StScrollBar {
 
 .menu-application-button {
   padding: 7px;
-  border: 1px solid rgba(0, 0, 0, 0); }
+  border: 1px solid transparent; }
   .menu-application-button:highlighted {
     font-weight: bold; }
   .menu-application-button-selected {
@@ -1033,7 +1021,7 @@ StScrollBar {
 
 .menu-category-button {
   padding: 7px;
-  border: 1px solid rgba(0, 0, 0, 0); }
+  border: 1px solid transparent; }
   .menu-category-button-selected {
     padding: 7px; }
   .menu-category-button-hover {
@@ -1042,7 +1030,7 @@ StScrollBar {
   .menu-category-button-greyed {
     padding: 7px;
     color: rgba(200, 219, 236, 0.55);
-    border: 1px solid rgba(0, 0, 0, 0); }
+    border: 1px solid transparent; }
   .menu-category-button-label:ltr {
     padding-left: 5px; }
   .menu-category-button-label:rtl {
@@ -1379,9 +1367,9 @@ StScrollBar {
     border: none;
     -slider-height: 0.5em;
     -slider-background-color: #132433;
-    -slider-border-color: rgba(0, 0, 0, 0);
+    -slider-border-color: transparent;
     -slider-active-background-color: #244766;
-    -slider-active-border-color: rgba(0, 0, 0, 0);
+    -slider-active-border-color: transparent;
     -slider-border-width: 0px;
     -slider-handle-radius: 0px; }
 
@@ -1562,5 +1550,5 @@ StScrollBar {
 .xkcd-box {
   padding: 6px;
   border: 0px;
-  background-color: rgba(0, 0, 0, 0);
+  background-color: transparent;
   border-radius: 0px; }

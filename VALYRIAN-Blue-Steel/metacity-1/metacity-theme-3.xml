@@ -1,12 +1,11 @@
 <?xml version="1.0"?>
 <metacity_theme>
 <info>
-	<name>Valyrian-Blue-Steel</name>
-	<author>rtl88</author>
-	<copyright>rtl88</copyright>
-	<date>2022</date>
-	<Arc Creator>horst3180</Arc Creator>
-	<description>Valyrian-Blue-Steel Metacity theme</description>
+	<name>VALYRIAN-Blue-Steel</name>
+	<author>horst3180/rtl88</author>
+	<copyright>horst3180/rtl88</copyright>
+	<date>2015/2026</date>
+	<description>VALYRIAN-Blue-Steel Metacity theme</description>
 </info>
 
 <!-- meaningfull constants -->
